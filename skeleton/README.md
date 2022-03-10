@@ -1,11 +1,5 @@
 # Bedrock-a-Party
 
-**Hi!** 
-
-If you read this file it means that you are developing your (first?) *microservice* using [Flask](https://flask.palletsprojects.com/en/2.0.x/)
-and [Flakon](https://pypi.org/project/flakon/)!
-
-Now, let's start with a quick explanation of this skeleton:
 
 ### Directory structure
 
